@@ -33,12 +33,13 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias
 
 Clone o projeto e acesse a pasta
 
-bash
+```bash
 $ git clone https://github.com/maeduarda/nlw4-moveit.git && cd nlw04-moveit
+```
 
 
 Siga os passos abaixo
-bash
+```bash
 # Install the dependencies
 $ yarn
 #ou
@@ -48,6 +49,7 @@ $ npm
 $ yarn dev
 #ou
 $ npm run dev
+```
 
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
