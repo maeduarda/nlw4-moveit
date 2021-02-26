@@ -1,4 +1,4 @@
-<h1 aling="center">
+<h1 align="center">
 <img alt="Move.it" title="Move.it" src=".github/icon.svg">
 </h1>
 
